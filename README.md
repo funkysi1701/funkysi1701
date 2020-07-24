@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My twitter handle is @funkysi1701
+My twitter handle is [@funkysi1701](https://twitter.com/funkysi1701)
 
 <!--
 **funkysi1701/funkysi1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
