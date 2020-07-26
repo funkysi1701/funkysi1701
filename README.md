@@ -4,8 +4,10 @@ My real name is Simon Foster but my on-line persona is Funky Si a nickname I was
 
 In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes use of the Have I Been Pwned? API to allow searching for breached emails and passwords. This is available from the Google and Microsoft stores.
 
-My twitter handle is [@funkysi1701](https://twitter.com/funkysi1701)
-[Pwned Pass on Play Store](https://play.google.com/store/apps/details?id=pwnedpasswords.pwnedpasswords)
+- [Twitter](https://twitter.com/funkysi1701)
+- [Facebook](https://www.facebook.com/funkysi1701)
+- [Dev.to](https://dev.to/funkysi1701)
+- [Pwned Pass on Play Store](https://play.google.com/store/apps/details?id=pwnedpasswords.pwnedpasswords)
 
 My website can be found https://www.funkysi1701.com, https://dev.funkysi1701.com or www.pwnedpass.com 
 <!--
