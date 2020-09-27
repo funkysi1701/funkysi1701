@@ -23,3 +23,8 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funkysi1701&layout=compact" alt="funkysi1701" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=funkysi1701&show_icons=true" alt="funkysi1701" /></p>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
