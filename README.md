@@ -27,4 +27,8 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Headers](https://dev.to/funkysi1701/security-headers-3ec3)
+- [Back to Blogging](https://dev.to/funkysi1701/back-to-blogging-1ako)
+- [Testing for expiring SSL Certificates](https://dev.to/funkysi1701/testing-for-expiring-ssl-certificates-2dmj)
+- [A Comparison of All Good Things... and Star Trek Picard](https://dev.to/funkysi1701/a-comparison-of-all-good-things-and-star-trek-picard-nb0)
 <!-- BLOG-POST-LIST:END -->
