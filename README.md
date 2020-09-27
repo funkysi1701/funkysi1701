@@ -13,7 +13,7 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 <a href="https://dev.to/funkysi1701" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="funkysi1701" height="30" width="40" /></a>
 <a href="https://twitter.com/funkysi1701" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="funkysi1701" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/funkysi1701" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="funkysi1701" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/26111/simon-foster" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/26111/simon-foster" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26111/simon-foster" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/26111/simon-foster" height="30" width="40" /></a>
 <a href="https://fb.com/funkysi1701" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="funkysi1701" height="30" width="40" /></a>
 </p>
 
