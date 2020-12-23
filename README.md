@@ -27,8 +27,8 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pwned Pass Update](https://dev.to/funkysi1701/pwned-pass-update-3lel)
 - [Building a Twitter Clone](https://dev.to/funkysi1701/building-a-twitter-clone-2h0c)
 - [#005: Twitter Cards](https://dev.to/funkysi1701/005-twitter-cards-46eb)
 - [Weekly Update #004](https://dev.to/funkysi1701/weekly-update-004-341p)
-- [Weekly Update #003](https://dev.to/funkysi1701/weekly-update-003-3nfl)
 <!-- BLOG-POST-LIST:END -->
