@@ -27,8 +27,8 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps Release Pipelines Pre and Post Approval](https://dev.to/funkysi1701/azure-devops-release-pipelines-pre-and-post-approval-4095)
 - [Goals for 2021](https://dev.to/funkysi1701/goals-for-2021-mfm)
 - [Building a Twitter Clone](https://dev.to/funkysi1701/building-a-twitter-clone-2h0c)
 - [#005: Twitter Cards](https://dev.to/funkysi1701/005-twitter-cards-46eb)
-- [Weekly Update #004](https://dev.to/funkysi1701/weekly-update-004-341p)
 <!-- BLOG-POST-LIST:END -->
