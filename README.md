@@ -27,8 +27,8 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My road to Certification](https://dev.to/funkysi1701/my-road-to-certification-3bep)
 - [DotNet on a Raspberry Pi](https://dev.to/funkysi1701/dotnet-on-a-raspberry-pi-3ldn)
 - [Charting my Energy usage with the Octopus Energy API](https://dev.to/funkysi1701/charting-my-energy-usage-with-the-octopus-energy-api-em8)
 - [Azure DevOps Release Pipelines Pre and Post Approval](https://dev.to/funkysi1701/azure-devops-release-pipelines-pre-and-post-approval-4095)
-- [Goals for 2021](https://dev.to/funkysi1701/goals-for-2021-mfm)
 <!-- BLOG-POST-LIST:END -->
