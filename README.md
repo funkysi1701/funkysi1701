@@ -23,7 +23,7 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funkysi1701&layout=compact" alt="funkysi1701" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=funkysi1701&show_icons=true" alt="funkysi1701" /></p>
-
+<a href="https://wakatime.com/@d1db7e64-2781-4980-9b20-32ca625d3fb0"><img src="https://wakatime.com/badge/user/d1db7e64-2781-4980-9b20-32ca625d3fb0.svg" alt="Total time coded since Nov 27 2020" /></a>
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
