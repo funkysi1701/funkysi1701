@@ -20,11 +20,7 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funkysi1701&layout=compact" alt="funkysi1701" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=funkysi1701&show_icons=true" alt="funkysi1701" /></p>
-<a href="https://wakatime.com/@d1db7e64-2781-4980-9b20-32ca625d3fb0"><img src="https://wakatime.com/badge/user/d1db7e64-2781-4980-9b20-32ca625d3fb0.svg" alt="Total time coded since Nov 27 2020" /></a>
-
+<p><a href="https://wakatime.com/@d1db7e64-2781-4980-9b20-32ca625d3fb0"><img src="https://wakatime.com/badge/user/d1db7e64-2781-4980-9b20-32ca625d3fb0.svg" alt="Total time coded since Nov 27 2020" /></a></p>
 
 # Blog posts
 
@@ -34,3 +30,10 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 - [DotNet on a Raspberry Pi](https://dev.to/funkysi1701/dotnet-on-a-raspberry-pi-3ldn)
 - [Charting my Energy usage with the Octopus Energy API](https://dev.to/funkysi1701/charting-my-energy-usage-with-the-octopus-energy-api-em8)
 <!-- BLOG-POST-LIST:END -->
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=funkysi1701&theme=merko" width="700"></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funkysi1701&layout=compact&theme=merko" alt="funkysi1701" width="700"/></p>
+
