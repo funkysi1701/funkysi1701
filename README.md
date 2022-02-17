@@ -8,10 +8,10 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do I have a website?](https://dev.to/funkysi1701/why-do-i-have-a-website-1m5l)
-- [Using GitHub Actions](https://dev.to/funkysi1701/using-github-actions-3jo1)
-- [2022 Goals](https://dev.to/funkysi1701/2022-goals-24nj)
-- [Back to BASIC](https://dev.to/funkysi1701/back-to-basic-3c83)
+- [dotnet is 20 years old](https://www.funkysi1701.com/posts/dotnet-is-20-years-old/)
+- [Why do I have a website?](https://www.funkysi1701.com/posts/why-do-i-have-a-website/)
+- [Using GitHub Actions](https://www.funkysi1701.com/posts/using-github-actions/)
+- [2022 Goals](https://www.funkysi1701.com/posts/2022-goals/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
