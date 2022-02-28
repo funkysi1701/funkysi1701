@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Simon Foster (funkysi1701)</h1>
+<h1 align="center">Hi, I'm Simon Foster (@funkysi1701)</h1>
 <h3 align="center">Software Developer based in the North of England. More than just another developer.</h3>
 
 My real name is Simon Foster but my on-line persona is Funky Si a nickname I was given many years ago which has somehow stuck. I am a Developer working in the North of England. I have been working in IT departments since 2006 and have a wide range of experiences. More recently in the Software Development space but also SysAdmin, Server Infrastructure and DevOps.
