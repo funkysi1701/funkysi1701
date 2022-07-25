@@ -8,11 +8,11 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A brief history of Source Control](https://www.funkysi1701.com/posts/2022/a-brief-history-of-source-control/)
 - [Visual Studio Keyboard Shortcuts](https://www.funkysi1701.com/posts/2022/keyboard-shortcuts/)
 - [Diagrams with Mermaid](https://www.funkysi1701.com/posts/2022/diagrams-with-mermaid/)
 - [Scottish Summit 2022](https://www.funkysi1701.com/posts/2022/scottishsummit/)
 - [Scratch](https://www.funkysi1701.com/posts/2022/scratch/)
-- [Temporal Trek Podcast](https://www.funkysi1701.com/posts/2022/temporal-trek-podcast/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
