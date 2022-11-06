@@ -20,5 +20,3 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=funkysi1701&theme=merko" width="700"></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funkysi1701&layout=compact&theme=merko" alt="funkysi1701" width="700"/></p>
-
-<p><a rel="me" href="https://hachyderm.io/@funkysi1701">Mastodon</a></p>
