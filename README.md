@@ -7,6 +7,9 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 
 I am [@funkysi1701@hachyderm.io](https://hachyderm.io/web/@funkysi1701) on Mastodon
 
+![](https://komarev.com/ghpvc/?username=funkysi1701&color=lightgrey) 
+ ![](https://visitor-badge.glitch.me/badge?page_id=funkysi1701.funkysi1701)
+
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
