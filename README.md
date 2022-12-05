@@ -14,11 +14,11 @@ I am [@funkysi1701@hachyderm.io](https://hachyderm.io/web/@funkysi1701) on Masto
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DDD North](https://www.funkysi1701.com/posts/2022/ddd-north/)
 - [Expiring Azure AD Client Secrets](https://www.funkysi1701.com/posts/2022/expiring-azuread-client-secrets/)
 - [Upgrading to .Net 7](https://www.funkysi1701.com/posts/2022/dotnet7/)
 - [MakeCode and the BBC micro:bit](https://www.funkysi1701.com/posts/2022/microbit/)
 - [A brief history of Source Control](https://www.funkysi1701.com/posts/2022/a-brief-history-of-source-control/)
-- [Visual Studio Keyboard Shortcuts](https://www.funkysi1701.com/posts/2022/keyboard-shortcuts/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
