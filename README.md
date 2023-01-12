@@ -21,8 +21,8 @@ I am [@funkysi1701@hachyderm.io](https://hachyderm.io/web/@funkysi1701) on Masto
 - [Upgrading to .Net 7](https://www.funkysi1701.com/posts/2022/dotnet7/)
 <!-- BLOG-POST-LIST:END -->
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
+<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=funkysi1701&theme=merko" width="700"></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funkysi1701&layout=compact&theme=merko" alt="funkysi1701" width="700"/></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=funkysi1701&layout=compact&theme=merko" alt="funkysi1701" width="700"/></p>
