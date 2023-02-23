@@ -14,11 +14,11 @@ I am [@funkysi1701@hachyderm.io](https://hachyderm.io/web/@funkysi1701) on Masto
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Picard Season 3](https://www.funkysi1701.com/posts/2023/picard-season-three/)
 - [How much does it cost?](https://www.funkysi1701.com/posts/2023/how-much-does-it-cost/)
 - [What podcasts have I been listening to - Week 2](https://www.funkysi1701.com/posts/2023/what-have-i-been-listening-to-week2/)
 - [What podcasts have I been listening to](https://www.funkysi1701.com/posts/2023/what-have-i-been-listening-to/)
 - [2022 What Happened?](https://www.funkysi1701.com/posts/2022/2022-what-happened/)
-- [DDD North](https://www.funkysi1701.com/posts/2022/ddd-north/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
