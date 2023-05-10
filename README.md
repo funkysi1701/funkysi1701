@@ -9,7 +9,7 @@ I am [@funkysi1701@hachyderm.io](https://hachyderm.io/web/@funkysi1701) on Masto
 
 ![](https://komarev.com/ghpvc/?username=funkysi1701&color=lightgrey) 
 
-![](https://visitor-badge.glitch.me/badge?page_id=funkysi1701.funkysi1701)
+[![HitCount](https://hits.dwyl.com/funkysi1701/funkysi1701.svg?style=flat-square)](http://hits.dwyl.com/funkysi1701/funkysi1701)
 
 # Blog posts
 
