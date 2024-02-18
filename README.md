@@ -14,11 +14,11 @@ I am [@funkysi1701@hachyderm.io](https://hachyderm.io/web/@funkysi1701) on Masto
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Funky Si walks a half marathon](https://www.funkysi1701.com/posts/2024/charity-hike/)
 - [TrekRanks #174](https://www.funkysi1701.com/posts/2024/trekranks/)
 - [Make API calls from Visual Studio or Visual Studio Code](https://www.funkysi1701.com/posts/2023/make-api-calls-from-visual-studio/)
 - [Become the best Actor, Astronaut or Developer you can be!](https://www.funkysi1701.com/posts/2023/become-the-best-actor-astronaut-or-developer-you-can-be/)
 - [DDD East Midlands](https://www.funkysi1701.com/posts/2023/ddd-east-midlands/)
-- [Picard Season 3](https://www.funkysi1701.com/posts/2023/picard-season-three/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
