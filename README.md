@@ -10,11 +10,11 @@ In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with .Net Aspire](https://www.funkysi1701.com/posts/2024/aspire/)
 - [Version 9 of .Net is here](https://www.funkysi1701.com/posts/2024/dotnet9/)
 - [Strategy Design Pattern](https://www.funkysi1701.com/posts/2024/strategy-pattern/)
 - [Code Club](https://www.funkysi1701.com/posts/2024/codeclub/)
 - [Scottish Summit 2024](https://www.funkysi1701.com/posts/2024/scottishsummit/)
-- [Funky Si walks a half marathon](https://www.funkysi1701.com/posts/2024/charity-hike/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
