@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Simon Foster (@funkysi1701)</h1>
-<h3 align="center">Software Developer based in the North of England. More than just another developer.</h3>
+<p align="center">North of England-based Software Developer
+| .NET & C# specialist
+| More than just another developer.</p>
 
-My real name is Simon Foster but my on-line persona is Funky Si a nickname I was given many years ago which has somehow stuck. I am a Developer working in the North of England. I have been working in IT departments since 2006 and have a wide range of experiences. More recently in the Software Development space but also SysAdmin, Server Infrastructure and DevOps.
-
-In my spare time I have created Pwned Pass a Xamarin Forms mobile app that makes use of the Have I Been Pwned? API to allow searching for breached emails and passwords. This is available from the [Google play store](https://play.google.com/store/apps/details?id=pwnedpasswords.pwnedpasswords).
+I am a Developer working in the North of England. I have been working in IT departments since 2006 and have a wide range of experiences. More recently in the Software Development space but also SysAdmin, Server Infrastructure and DevOps.
 
 ![](https://komarev.com/ghpvc/?username=funkysi1701&color=lightgrey) 
 
