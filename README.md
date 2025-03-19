@@ -10,11 +10,11 @@ I am a Developer working in the North of England. I have been working in IT depa
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using AI to Automate Social Media Posts with .NET](https://www.funkysi1701.com/posts/2025/using-ai/)
 - [Merging Two Projects Into One Git Repository](https://www.funkysi1701.com/posts/2025/merge-two-projects-into-one/)
 - [The Pragmatic Programmer](https://www.funkysi1701.com/posts/2025/pragmatic-programmer/)
 - [Understanding and Handling Exceptions in .NET](https://www.funkysi1701.com/posts/2025/exceptions/)
 - [What is new with C#](https://www.funkysi1701.com/posts/2025/whats-new-csharp/)
-- [Volunteering at NDC London](https://www.funkysi1701.com/posts/2025/volunteering-at-ndc/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
