@@ -10,11 +10,11 @@ I am a Developer working in the North of England. I have been working in IT depa
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with OpenTelemetry: Observability Made Easy](https://www.funkysi1701.com/posts/2025/getting-started-with-opentelemetry/)
 - [What&#39;s New in .NET Aspire 9.2: Infrastructure Diagrams Made Easy](https://www.funkysi1701.com/posts/2025/aspire-9.2/)
 - [Integrating OpenTelemetry Logs with Grafana Using Loki and Alloy](https://www.funkysi1701.com/posts/2025/opentelemetry-logs/)
 - [Exploring ChatGPT&#39;s Image Generation: Fun with AI](https://www.funkysi1701.com/posts/2025/fun-with-ai/)
 - [Using AI to Automate Social Media Posts with .NET](https://www.funkysi1701.com/posts/2025/using-ai/)
-- [Merging Two Projects Into One Git Repository](https://www.funkysi1701.com/posts/2025/merge-two-projects-into-one/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
