@@ -10,11 +10,11 @@ I am a Developer working in the North of England. I have been working in IT depa
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Mandelbrot Set](https://www.funkysi1701.com/posts/2025/mandelbrot-set/)
 - [The Hacker Ethic](https://www.funkysi1701.com/posts/2025/the-hacker-ethic/)
 - [Automating SSL for Kubernetes with Let&#39;s Encrypt and Cert Manager](https://www.funkysi1701.com/posts/2025/kubernetes-and-letsencrypt/)
 - [Stepping Outside My Comfort Zone: An Adventure Holiday Experience](https://www.funkysi1701.com/posts/2025/stepping-outside-your-comfort-zone/)
 - [Deploying My Blog to Kubernetes with Helm Charts](https://www.funkysi1701.com/posts/2025/deploying-hugo-with-helm/)
-- [Learning Kubernetes: A Beginner&#39;s Journey](https://www.funkysi1701.com/posts/2025/learning-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
