@@ -17,8 +17,4 @@ I am a Developer working in the North of England. I have been working in IT depa
 - [Deploying My Blog to Kubernetes with Helm Charts](https://www.funkysi1701.com/posts/2025/deploying-hugo-with-helm/)
 <!-- BLOG-POST-LIST:END -->
 
-<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=funkysi1701&show_icons=true&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for funkysi1701" width="700"></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=funkysi1701&theme=merko" width="700"></p>
-
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=funkysi1701&layout=compact&theme=merko" alt="funkysi1701" width="700"/></p>
