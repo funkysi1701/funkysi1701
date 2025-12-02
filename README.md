@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Simon Foster (@funkysi1701)</h1>
 <p align="center">North of England-based Software Developer
-| .NET & C# specialist
-| More than just another developer.</p>
+| .NET developer | Azure & DevOps specialist | 18+ years building scalable solutions</p>
 
-I am a Developer working in the North of England. I have been working in IT departments since 2006 and have a wide range of experiences. More recently in the Software Development space but also SysAdmin, Server Infrastructure and DevOps.
+With 18+ years in IT departments (since 2006), I’ve worn many hats: software developer, systems administrator, infrastructure engineer, database specialist, and DevOps advocate. My career has evolved from traditional ops work into modern cloud-native development, and I genuinely enjoy the intersection of development and infrastructure.
 
 ![](https://komarev.com/ghpvc/?username=funkysi1701&color=lightgrey) 
 
