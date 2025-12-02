@@ -4,7 +4,7 @@
 
 With 18+ years in IT departments (since 2006), I’ve worn many hats: software developer, systems administrator, infrastructure engineer, database specialist, and DevOps advocate. My career has evolved from traditional ops work into modern cloud-native development, and I genuinely enjoy the intersection of development and infrastructure.
 
-Read more [about me](https://www.funkysi1701.com/about).
+Read more [about me](https://www.funkysi1701.com/about) on my website.
 
 ![](https://komarev.com/ghpvc/?username=funkysi1701&color=lightgrey) 
 
