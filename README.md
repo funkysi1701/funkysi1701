@@ -24,17 +24,6 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 
 ---
 
-### 🚀 Featured Projects
-
-- [AdventSolution](https://github.com/funkysi1701/AdventSolution): My solutions to Advent of Code, in C#.
-- [CodeSamples](https://github.com/funkysi1701/CodeSamples): Examples of code I have written.
-- [RaspberryPiDotNet](https://github.com/funkysi1701/RaspberryPiDotNet): .NET 5 code running on a Raspberry Pi.
-- [MSGraphHack](https://github.com/funkysi1701/MSGraphHack)
-- [Metrics](https://github.com/funkysi1701/Metrics)
-- [More repositories ](https://github.com/funkysi1701?tab=repositories)
-
----
-
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -51,9 +40,5 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 
 - 🌐 <a href="https://www.funkysi1701.com">funkysi1701.com</a>
 - 💼 <a href="https://www.linkedin.com/in/simon-foster-9252678/">LinkedIn</a>
-
-<p align="center">
-    <sub>Packaged on <code>funkysi1701</code> &mdash; powered by curiosity, robust code, and decent coffee 54b</sub>
-</p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=funkysi1701&color=lightgrey" alt="Profile Views" /></p>
