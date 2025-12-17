@@ -32,6 +32,11 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 - [Periodic Table of DevOps 2025](https://www.funkysi1701.com/posts/2025/periodic-table-devops-2025/)
 - [The Mandelbrot Set](https://www.funkysi1701.com/posts/2025/mandelbrot-set/)
 - [The Hacker Ethic](https://www.funkysi1701.com/posts/2025/the-hacker-ethic/)
+- [Automating SSL for Kubernetes with Let&#39;s Encrypt and Cert Manager](https://www.funkysi1701.com/posts/2025/kubernetes-and-letsencrypt/)
+- [Stepping Outside My Comfort Zone: An Adventure Holiday Experience](https://www.funkysi1701.com/posts/2025/stepping-outside-your-comfort-zone/)
+- [Deploying My Blog to Kubernetes with Helm Charts](https://www.funkysi1701.com/posts/2025/deploying-hugo-with-helm/)
+- [Learning Kubernetes: A Beginner&#39;s Journey](https://www.funkysi1701.com/posts/2025/learning-kubernetes/)
+- [Getting Started with OpenTelemetry: Observability Made Easy](https://www.funkysi1701.com/posts/2025/getting-started-with-opentelemetry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
