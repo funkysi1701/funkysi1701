@@ -10,5 +10,5 @@ jobs:
             - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
-                max_post_count: "5"
+                max_post_count: "10"
                 feed_list: "https://www.funkysi1701.com/index.xml"
