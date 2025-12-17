@@ -39,6 +39,6 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 ### 🤝 Let's Connect!
 
 - 🌐 <a href="https://www.funkysi1701.com">funkysi1701.com</a>
-- 💼 <a href="https://www.linkedin.com/in/simon-foster-9252678/">LinkedIn</a>
+- 💼 <a href="https://linkedin.com/in/funkysi1701/">LinkedIn</a>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=funkysi1701&color=lightgrey" alt="Profile Views" /></p>
