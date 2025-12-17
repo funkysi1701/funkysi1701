@@ -7,11 +7,11 @@
 
 <p align="center">
     <a href="https://www.funkysi1701.com"><img src="https://img.shields.io/badge/Website-funkysi1701.com-1976D2?style=flat-square&logo=About.me&logoColor=white" alt="Website"></a>
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
-    <img src="https://img.shields.io/badge/DevOps-26547C?style=flat-square&logo=azuredevops&logoColor=white" alt="DevOps">
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/Blog-Read-4EA94B?style=flat-square&logo=blogger&logoColor=white" alt="Blog">
+    <a href="https://www.funkysi1701.com/tags/dotnet/"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"></a>
+    <a href="https://www.funkysi1701.com/tags/azure/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"></a>
+    <a href="https://www.funkysi1701.com/tags/devops/"><img src="https://img.shields.io/badge/DevOps-26547C?style=flat-square&logo=azuredevops&logoColor=white" alt="DevOps"></a>
+    <a href="https://www.funkysi1701.com/tags/c-sharp/"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"></a>
+    <a href="https://www.funkysi1701.com"><img src="https://img.shields.io/badge/Blog-Read-4EA94B?style=flat-square&logo=blogger&logoColor=white" alt="Blog"></a>
 </p>
 
 ---
