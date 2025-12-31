@@ -1,7 +1,7 @@
 <!-- Profile banner could go here -->
 <h1 align="center">Hey, I'm Simon Foster <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png" width="28" alt="wave"/></h1>
 <p align="center">
-  <strong>Building robust software and cloud solutions from the North of England</strong><br/>
+  <strong>Building robust software and cloud solutions in the North of England</strong><br/>
   <a href="https://www.funkysi1701.com" target="_blank"><b>funkysi1701.com</b></a> &bull; .NET Developer &bull; Azure + DevOps &bull; 18+ years' experience
 </p>
 
