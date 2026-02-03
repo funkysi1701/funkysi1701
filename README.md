@@ -28,7 +28,6 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 
 <!-- BLOG-POST-LIST:START -->
 - [NDC London 2026](https://www.funkysi1701.com/posts/2026/ndc-london-2026/)
-- [Parkrun Results](https://www.funkysi1701.com/parkrun/)
 - [2025 in Review and Goals for 2026](https://www.funkysi1701.com/posts/2026/2025-in-review-and-2026-goals/)
 - [Events 2026](https://www.funkysi1701.com/posts/events/2026/)
 - [Creating a Festive Naughty or Nice Checker Using Semantic Kernel and .NET](https://www.funkysi1701.com/posts/2025/festive-naughty-or-nice-checker/)
