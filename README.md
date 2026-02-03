@@ -27,7 +27,9 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Start Here](https://www.funkysi1701.com/posts/start-here/)
 - [NDC London 2026](https://www.funkysi1701.com/posts/2026/ndc-london-2026/)
+- [Parkrun Results](https://www.funkysi1701.com/parkrun/)
 - [2025 in Review and Goals for 2026](https://www.funkysi1701.com/posts/2026/2025-in-review-and-2026-goals/)
 - [Events 2026](https://www.funkysi1701.com/posts/events/2026/)
 - [Creating a Festive Naughty or Nice Checker Using Semantic Kernel and .NET](https://www.funkysi1701.com/posts/2025/festive-naughty-or-nice-checker/)
@@ -35,7 +37,6 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 - [Periodic Table of DevOps 2025](https://www.funkysi1701.com/posts/2025/periodic-table-devops-2025/)
 - [The Mandelbrot Set](https://www.funkysi1701.com/posts/2025/mandelbrot-set/)
 - [The Hacker Ethic](https://www.funkysi1701.com/posts/2025/the-hacker-ethic/)
-- [Automating SSL for Kubernetes with Let&#39;s Encrypt and Cert Manager](https://www.funkysi1701.com/posts/2025/kubernetes-and-letsencrypt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
