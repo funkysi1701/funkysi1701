@@ -41,6 +41,14 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 
 ---
 
+### 🖖 Episode Atlas
+
+- [Episode Atlas](https://www.episodeatlas.com/)
+
+With over 900 episodes tracking your StarTrek rewatch is a full time job. Episode Atlas is a tool to help with this task. Every episode and movie is listed with feature to record the last time you watched. More features coming soon...
+
+---
+
 ### 🤝 Let's Connect!
 
 - 🌐 <a href="https://www.funkysi1701.com">funkysi1701.com</a>
