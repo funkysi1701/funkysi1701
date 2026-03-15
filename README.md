@@ -27,6 +27,7 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Start Here](https://www.funkysi1701.com/posts/start-here/)
 - [AI Won&#39;t Replace Developers, But It Will Redefine Us](https://www.funkysi1701.com/posts/2026/ai-wont-replace-developers/)
 - [Azure Container Registry vs AWS Elastic Container Registry: A Developer&#39;s Comparison](https://www.funkysi1701.com/posts/2026/acr-vs-ecr/)
 - [NDC London 2026](https://www.funkysi1701.com/posts/2026/ndc-london-2026/)
@@ -36,7 +37,6 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 - [Creating a Festive Naughty or Nice Checker Using Semantic Kernel and .NET](https://www.funkysi1701.com/posts/2025/festive-naughty-or-nice-checker/)
 - [Blazor and .NET 10: Breaking Changes, Fixes, and New Features](https://www.funkysi1701.com/posts/2025/blazor-and-dotnet10/)
 - [Periodic Table of DevOps 2025](https://www.funkysi1701.com/posts/2025/periodic-table-devops-2025/)
-- [The Mandelbrot Set](https://www.funkysi1701.com/posts/2025/mandelbrot-set/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
