@@ -27,8 +27,8 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Portfolio: Live Azure Workloads, AI Search, and Dev Tools](https://www.funkysi1701.com/posts/projects/)
 - [How I Use AI on Side Projects: ChatGPT, Cursor, and Copilot](https://www.funkysi1701.com/posts/2026/how-i-use-ai-on-side-projects/)
-- [Start Here](https://www.funkysi1701.com/posts/start-here/)
 - [AI Won&#39;t Replace Developers, But It Will Redefine Us](https://www.funkysi1701.com/posts/2026/ai-wont-replace-developers/)
 - [Azure Container Registry vs AWS Elastic Container Registry: A Developer&#39;s Comparison](https://www.funkysi1701.com/posts/2026/acr-vs-ecr/)
 - [NDC London 2026](https://www.funkysi1701.com/posts/2026/ndc-london-2026/)
