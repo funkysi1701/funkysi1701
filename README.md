@@ -28,6 +28,7 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 
 <!-- BLOG-POST-LIST:START -->
 - [Portfolio: Live Azure Workloads, AI Search, and Dev Tools](https://www.funkysi1701.com/posts/projects/)
+- [Episode Atlas: Track Your Star Trek Rewatch Journey](https://www.funkysi1701.com/posts/2026/episode-atlas/)
 - [How I Use AI on Side Projects: ChatGPT, Cursor, and Copilot](https://www.funkysi1701.com/posts/2026/how-i-use-ai-on-side-projects/)
 - [AI Won&#39;t Replace Developers, But It Will Redefine Us](https://www.funkysi1701.com/posts/2026/ai-wont-replace-developers/)
 - [Azure Container Registry vs AWS Elastic Container Registry: A Developer&#39;s Comparison](https://www.funkysi1701.com/posts/2026/acr-vs-ecr/)
@@ -36,7 +37,6 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 - [2025 in Review and Goals for 2026](https://www.funkysi1701.com/posts/2026/2025-in-review-and-2026-goals/)
 - [Events 2026](https://www.funkysi1701.com/posts/events/2026/)
 - [Creating a Festive Naughty or Nice Checker Using Semantic Kernel and .NET](https://www.funkysi1701.com/posts/2025/festive-naughty-or-nice-checker/)
-- [Blazor and .NET 10: Breaking Changes, Fixes, and New Features](https://www.funkysi1701.com/posts/2025/blazor-and-dotnet10/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
