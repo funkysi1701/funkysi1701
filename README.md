@@ -27,6 +27,7 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET 5 to 10: Key Features Introduced in Every Release](https://www.funkysi1701.com/posts/2026/dotnet-5-to-10-features/)
 - [Portfolio: Live Azure Workloads, AI Search, and Dev Tools](https://www.funkysi1701.com/projects/)
 - [Stay Visible as a Developer When You Are Made Redundant](https://www.funkysi1701.com/posts/2026/stay-visible-as-a-developer-when-you-are-made-redundant/)
 - [Episode Atlas: Track Your Star Trek Rewatch Journey](https://www.funkysi1701.com/posts/2026/episode-atlas/)
@@ -36,7 +37,6 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 - [NDC London 2026](https://www.funkysi1701.com/posts/2026/ndc-london-2026/)
 - [Parkrun Results](https://www.funkysi1701.com/parkrun/)
 - [2025 in Review and Goals for 2026](https://www.funkysi1701.com/posts/2026/2025-in-review-and-2026-goals/)
-- [Events 2026](https://www.funkysi1701.com/posts/events/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
