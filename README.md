@@ -27,6 +27,7 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP QUERY Explained: Safe Requests That Include a Body](https://www.funkysi1701.com/posts/2026/http-query-method/)
 - [.NET 5 to 10: Key Features Introduced in Every Release](https://www.funkysi1701.com/posts/2026/dotnet-5-to-10-features/)
 - [Portfolio: Live Azure Workloads, AI Search, and Dev Tools](https://www.funkysi1701.com/projects/)
 - [Stay Visible as a Developer When You Are Made Redundant](https://www.funkysi1701.com/posts/2026/stay-visible-as-a-developer-when-you-are-made-redundant/)
@@ -36,7 +37,6 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 - [Azure Container Registry vs AWS Elastic Container Registry: A Developer&#39;s Comparison](https://www.funkysi1701.com/posts/2026/acr-vs-ecr/)
 - [NDC London 2026](https://www.funkysi1701.com/posts/2026/ndc-london-2026/)
 - [Parkrun Results](https://www.funkysi1701.com/parkrun/)
-- [2025 in Review and Goals for 2026](https://www.funkysi1701.com/posts/2026/2025-in-review-and-2026-goals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
