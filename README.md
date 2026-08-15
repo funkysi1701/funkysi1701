@@ -28,14 +28,14 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 
 <!-- BLOG-POST-LIST:START -->
 - [Pairing with AI in VS Code and Cursor](https://www.funkysi1701.com/posts/2026/ai-pair-programming-dotnet/)
-- [HTTP QUERY Explained: Safe Requests That Include a Body](https://www.funkysi1701.com/posts/2026/http-query-method/)
-- [.NET 5 to 10: Key Features Introduced in Every Release](https://www.funkysi1701.com/posts/2026/dotnet-5-to-10-features/)
-- [Portfolio: Live Azure Workloads, AI Search, and Dev Tools](https://www.funkysi1701.com/projects/)
-- [Stay Visible as a Developer When You Are Made Redundant](https://www.funkysi1701.com/posts/2026/stay-visible-as-a-developer-when-you-are-made-redundant/)
-- [Episode Atlas: Track Your Star Trek Rewatch Journey](https://www.funkysi1701.com/posts/2026/episode-atlas/)
-- [How I Use AI on Side Projects: ChatGPT, Cursor, and Copilot](https://www.funkysi1701.com/posts/2026/how-i-use-ai-on-side-projects/)
-- [AI Won&#39;t Replace Developers, But It Will Redefine Us](https://www.funkysi1701.com/posts/2026/ai-wont-replace-developers/)
-- [Azure Container Registry vs AWS Elastic Container Registry: A Developer&#39;s Comparison](https://www.funkysi1701.com/posts/2026/acr-vs-ecr/)
+- [HTTP QUERY: requests with a body](https://www.funkysi1701.com/posts/2026/http-query-method/)
+- [.NET 5 to 10: features per release](https://www.funkysi1701.com/posts/2026/dotnet-5-to-10-features/)
+- [Portfolio: Azure, AI, and dev tools](https://www.funkysi1701.com/projects/)
+- [Stay visible when made redundant](https://www.funkysi1701.com/posts/2026/stay-visible-as-a-developer-when-you-are-made-redundant/)
+- [Episode Atlas: track your Trek rewatch](https://www.funkysi1701.com/posts/2026/episode-atlas/)
+- [AI on side projects: Cursor, Copilot](https://www.funkysi1701.com/posts/2026/how-i-use-ai-on-side-projects/)
+- [AI will not replace us developers](https://www.funkysi1701.com/posts/2026/ai-wont-replace-developers/)
+- [ACR vs ECR: Azure and AWS registries](https://www.funkysi1701.com/posts/2026/acr-vs-ecr/)
 - [NDC London 2026](https://www.funkysi1701.com/posts/2026/ndc-london-2026/)
 <!-- BLOG-POST-LIST:END -->
 
