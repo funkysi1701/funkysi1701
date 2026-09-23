@@ -27,6 +27,7 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal Diff CLI for coding agents](https://www.funkysi1701.com/posts/2026/signal-diff-cli/)
 - [GitOps with Flux on my k3s cluster](https://www.funkysi1701.com/posts/2026/gitops-with-flux-on-my-k3s-cluster/)
 - [Pairing with AI in VS Code and Cursor](https://www.funkysi1701.com/posts/2026/ai-pair-programming-dotnet/)
 - [HTTP QUERY: requests with a body](https://www.funkysi1701.com/posts/2026/http-query-method/)
@@ -36,7 +37,6 @@ With 18+ years in IT (since 2006), I’m a hands-on software developer, systems 
 - [Episode Atlas: track your Trek rewatch](https://www.funkysi1701.com/posts/2026/episode-atlas/)
 - [AI on side projects: Cursor, Copilot](https://www.funkysi1701.com/posts/2026/how-i-use-ai-on-side-projects/)
 - [AI will not replace us developers](https://www.funkysi1701.com/posts/2026/ai-wont-replace-developers/)
-- [ACR vs ECR: Azure and AWS registries](https://www.funkysi1701.com/posts/2026/acr-vs-ecr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
